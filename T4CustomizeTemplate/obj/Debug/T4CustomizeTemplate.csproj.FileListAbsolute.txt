@@ -1,0 +1,193 @@
+E:\Test Projects\T4CustomizeTemplate\T4CustomizeTemplate\bin\T4CustomizeTemplate.dll
+E:\Test Projects\T4CustomizeTemplate\T4CustomizeTemplate\bin\T4CustomizeTemplate.pdb
+E:\Test Projects\T4CustomizeTemplate\T4CustomizeTemplate\bin\Antlr3.Runtime.dll
+E:\Test Projects\T4CustomizeTemplate\T4CustomizeTemplate\bin\DotNetOpenAuth.AspNet.dll
+E:\Test Projects\T4CustomizeTemplate\T4CustomizeTemplate\bin\DotNetOpenAuth.Core.dll
+E:\Test Projects\T4CustomizeTemplate\T4CustomizeTemplate\bin\DotNetOpenAuth.OAuth.Consumer.dll
+E:\Test Projects\T4CustomizeTemplate\T4CustomizeTemplate\bin\DotNetOpenAuth.OAuth.dll
+E:\Test Projects\T4CustomizeTemplate\T4CustomizeTemplate\bin\DotNetOpenAuth.OpenId.dll
+E:\Test Projects\T4CustomizeTemplate\T4CustomizeTemplate\bin\DotNetOpenAuth.OpenId.RelyingParty.dll
+E:\Test Projects\T4CustomizeTemplate\T4CustomizeTemplate\bin\EntityFramework.dll
+E:\Test Projects\T4CustomizeTemplate\T4CustomizeTemplate\bin\Microsoft.Web.Infrastructure.dll
+E:\Test Projects\T4CustomizeTemplate\T4CustomizeTemplate\bin\Microsoft.Web.WebPages.OAuth.dll
+E:\Test Projects\T4CustomizeTemplate\T4CustomizeTemplate\bin\Newtonsoft.Json.dll
+E:\Test Projects\T4CustomizeTemplate\T4CustomizeTemplate\bin\System.Net.Http.Formatting.dll
+E:\Test Projects\T4CustomizeTemplate\T4CustomizeTemplate\bin\System.Web.Helpers.dll
+E:\Test Projects\T4CustomizeTemplate\T4CustomizeTemplate\bin\System.Web.Http.dll
+E:\Test Projects\T4CustomizeTemplate\T4CustomizeTemplate\bin\System.Web.Http.WebHost.dll
+E:\Test Projects\T4CustomizeTemplate\T4CustomizeTemplate\bin\System.Web.Mvc.dll
+E:\Test Projects\T4CustomizeTemplate\T4CustomizeTemplate\bin\System.Web.Optimization.dll
+E:\Test Projects\T4CustomizeTemplate\T4CustomizeTemplate\bin\System.Web.Razor.dll
+E:\Test Projects\T4CustomizeTemplate\T4CustomizeTemplate\bin\System.Web.WebPages.Deployment.dll
+E:\Test Projects\T4CustomizeTemplate\T4CustomizeTemplate\bin\System.Web.WebPages.dll
+E:\Test Projects\T4CustomizeTemplate\T4CustomizeTemplate\bin\System.Web.WebPages.Razor.dll
+E:\Test Projects\T4CustomizeTemplate\T4CustomizeTemplate\bin\WebGrease.dll
+E:\Test Projects\T4CustomizeTemplate\T4CustomizeTemplate\bin\WebMatrix.Data.dll
+E:\Test Projects\T4CustomizeTemplate\T4CustomizeTemplate\bin\WebMatrix.WebData.dll
+E:\Test Projects\T4CustomizeTemplate\T4CustomizeTemplate\bin\EntityFramework.xml
+E:\Test Projects\T4CustomizeTemplate\T4CustomizeTemplate\bin\Newtonsoft.Json.xml
+E:\Test Projects\T4CustomizeTemplate\T4CustomizeTemplate\bin\System.Net.Http.Formatting.xml
+E:\Test Projects\T4CustomizeTemplate\T4CustomizeTemplate\bin\System.Web.Helpers.xml
+E:\Test Projects\T4CustomizeTemplate\T4CustomizeTemplate\bin\System.Web.Http.xml
+E:\Test Projects\T4CustomizeTemplate\T4CustomizeTemplate\bin\System.Web.Http.WebHost.xml
+E:\Test Projects\T4CustomizeTemplate\T4CustomizeTemplate\bin\System.Web.Mvc.xml
+E:\Test Projects\T4CustomizeTemplate\T4CustomizeTemplate\bin\System.Web.Razor.xml
+E:\Test Projects\T4CustomizeTemplate\T4CustomizeTemplate\bin\System.Web.WebPages.xml
+E:\Test Projects\T4CustomizeTemplate\T4CustomizeTemplate\bin\System.Web.WebPages.Deployment.xml
+E:\Test Projects\T4CustomizeTemplate\T4CustomizeTemplate\bin\System.Web.WebPages.Razor.xml
+E:\Test Projects\T4CustomizeTemplate\T4CustomizeTemplate\bin\WebMatrix.Data.xml
+E:\Test Projects\T4CustomizeTemplate\T4CustomizeTemplate\bin\Microsoft.Web.WebPages.OAuth.xml
+E:\Test Projects\T4CustomizeTemplate\T4CustomizeTemplate\bin\WebMatrix.WebData.xml
+E:\Test Projects\T4CustomizeTemplate\T4CustomizeTemplate\bin\DotNetOpenAuth.AspNet.xml
+E:\Test Projects\T4CustomizeTemplate\T4CustomizeTemplate\bin\DotNetOpenAuth.Core.xml
+E:\Test Projects\T4CustomizeTemplate\T4CustomizeTemplate\bin\DotNetOpenAuth.OAuth.Consumer.xml
+E:\Test Projects\T4CustomizeTemplate\T4CustomizeTemplate\bin\DotNetOpenAuth.OAuth.xml
+E:\Test Projects\T4CustomizeTemplate\T4CustomizeTemplate\bin\DotNetOpenAuth.OpenId.xml
+E:\Test Projects\T4CustomizeTemplate\T4CustomizeTemplate\bin\DotNetOpenAuth.OpenId.RelyingParty.xml
+E:\Test Projects\T4CustomizeTemplate\T4CustomizeTemplate\obj\Debug\T4CustomizeTemplate.dll
+E:\Test Projects\T4CustomizeTemplate\T4CustomizeTemplate\obj\Debug\T4CustomizeTemplate.pdb
+E:\Test Projects\T4CustomizeTemplate\T4CustomizeTemplate\obj\Debug\T4CustomizeTemplate.csprojResolveAssemblyReference.cache
+E:\Test Projects\T4CustomizeTemplate\T4CustomizeTemplate\bin\System.Linq.Dynamic.dll
+E:\Projects\T4CustomizeTemplate (2)\T4CustomizeTemplate\T4CustomizeTemplate\bin\T4CustomizeTemplate.dll
+E:\Projects\T4CustomizeTemplate (2)\T4CustomizeTemplate\T4CustomizeTemplate\bin\T4CustomizeTemplate.pdb
+E:\Projects\T4CustomizeTemplate (2)\T4CustomizeTemplate\T4CustomizeTemplate\bin\Antlr3.Runtime.dll
+E:\Projects\T4CustomizeTemplate (2)\T4CustomizeTemplate\T4CustomizeTemplate\bin\DotNetOpenAuth.AspNet.dll
+E:\Projects\T4CustomizeTemplate (2)\T4CustomizeTemplate\T4CustomizeTemplate\bin\DotNetOpenAuth.Core.dll
+E:\Projects\T4CustomizeTemplate (2)\T4CustomizeTemplate\T4CustomizeTemplate\bin\DotNetOpenAuth.OAuth.Consumer.dll
+E:\Projects\T4CustomizeTemplate (2)\T4CustomizeTemplate\T4CustomizeTemplate\bin\DotNetOpenAuth.OAuth.dll
+E:\Projects\T4CustomizeTemplate (2)\T4CustomizeTemplate\T4CustomizeTemplate\bin\DotNetOpenAuth.OpenId.dll
+E:\Projects\T4CustomizeTemplate (2)\T4CustomizeTemplate\T4CustomizeTemplate\bin\DotNetOpenAuth.OpenId.RelyingParty.dll
+E:\Projects\T4CustomizeTemplate (2)\T4CustomizeTemplate\T4CustomizeTemplate\bin\EntityFramework.dll
+E:\Projects\T4CustomizeTemplate (2)\T4CustomizeTemplate\T4CustomizeTemplate\bin\Microsoft.Web.Infrastructure.dll
+E:\Projects\T4CustomizeTemplate (2)\T4CustomizeTemplate\T4CustomizeTemplate\bin\Microsoft.Web.WebPages.OAuth.dll
+E:\Projects\T4CustomizeTemplate (2)\T4CustomizeTemplate\T4CustomizeTemplate\bin\Newtonsoft.Json.dll
+E:\Projects\T4CustomizeTemplate (2)\T4CustomizeTemplate\T4CustomizeTemplate\bin\System.Linq.Dynamic.dll
+E:\Projects\T4CustomizeTemplate (2)\T4CustomizeTemplate\T4CustomizeTemplate\bin\System.Net.Http.Formatting.dll
+E:\Projects\T4CustomizeTemplate (2)\T4CustomizeTemplate\T4CustomizeTemplate\bin\System.Web.Helpers.dll
+E:\Projects\T4CustomizeTemplate (2)\T4CustomizeTemplate\T4CustomizeTemplate\bin\System.Web.Http.dll
+E:\Projects\T4CustomizeTemplate (2)\T4CustomizeTemplate\T4CustomizeTemplate\bin\System.Web.Http.WebHost.dll
+E:\Projects\T4CustomizeTemplate (2)\T4CustomizeTemplate\T4CustomizeTemplate\bin\System.Web.Mvc.dll
+E:\Projects\T4CustomizeTemplate (2)\T4CustomizeTemplate\T4CustomizeTemplate\bin\System.Web.Optimization.dll
+E:\Projects\T4CustomizeTemplate (2)\T4CustomizeTemplate\T4CustomizeTemplate\bin\System.Web.Razor.dll
+E:\Projects\T4CustomizeTemplate (2)\T4CustomizeTemplate\T4CustomizeTemplate\bin\System.Web.WebPages.Deployment.dll
+E:\Projects\T4CustomizeTemplate (2)\T4CustomizeTemplate\T4CustomizeTemplate\bin\System.Web.WebPages.dll
+E:\Projects\T4CustomizeTemplate (2)\T4CustomizeTemplate\T4CustomizeTemplate\bin\System.Web.WebPages.Razor.dll
+E:\Projects\T4CustomizeTemplate (2)\T4CustomizeTemplate\T4CustomizeTemplate\bin\WebGrease.dll
+E:\Projects\T4CustomizeTemplate (2)\T4CustomizeTemplate\T4CustomizeTemplate\bin\WebMatrix.Data.dll
+E:\Projects\T4CustomizeTemplate (2)\T4CustomizeTemplate\T4CustomizeTemplate\bin\WebMatrix.WebData.dll
+E:\Projects\T4CustomizeTemplate (2)\T4CustomizeTemplate\T4CustomizeTemplate\bin\EntityFramework.xml
+E:\Projects\T4CustomizeTemplate (2)\T4CustomizeTemplate\T4CustomizeTemplate\bin\Newtonsoft.Json.xml
+E:\Projects\T4CustomizeTemplate (2)\T4CustomizeTemplate\T4CustomizeTemplate\bin\System.Net.Http.Formatting.xml
+E:\Projects\T4CustomizeTemplate (2)\T4CustomizeTemplate\T4CustomizeTemplate\bin\System.Web.Helpers.xml
+E:\Projects\T4CustomizeTemplate (2)\T4CustomizeTemplate\T4CustomizeTemplate\bin\System.Web.Http.xml
+E:\Projects\T4CustomizeTemplate (2)\T4CustomizeTemplate\T4CustomizeTemplate\bin\System.Web.Http.WebHost.xml
+E:\Projects\T4CustomizeTemplate (2)\T4CustomizeTemplate\T4CustomizeTemplate\bin\System.Web.Mvc.xml
+E:\Projects\T4CustomizeTemplate (2)\T4CustomizeTemplate\T4CustomizeTemplate\bin\System.Web.Razor.xml
+E:\Projects\T4CustomizeTemplate (2)\T4CustomizeTemplate\T4CustomizeTemplate\bin\System.Web.WebPages.xml
+E:\Projects\T4CustomizeTemplate (2)\T4CustomizeTemplate\T4CustomizeTemplate\bin\System.Web.WebPages.Deployment.xml
+E:\Projects\T4CustomizeTemplate (2)\T4CustomizeTemplate\T4CustomizeTemplate\bin\System.Web.WebPages.Razor.xml
+E:\Projects\T4CustomizeTemplate (2)\T4CustomizeTemplate\T4CustomizeTemplate\bin\WebMatrix.Data.xml
+E:\Projects\T4CustomizeTemplate (2)\T4CustomizeTemplate\T4CustomizeTemplate\bin\Microsoft.Web.WebPages.OAuth.xml
+E:\Projects\T4CustomizeTemplate (2)\T4CustomizeTemplate\T4CustomizeTemplate\bin\WebMatrix.WebData.xml
+E:\Projects\T4CustomizeTemplate (2)\T4CustomizeTemplate\T4CustomizeTemplate\bin\DotNetOpenAuth.AspNet.xml
+E:\Projects\T4CustomizeTemplate (2)\T4CustomizeTemplate\T4CustomizeTemplate\bin\DotNetOpenAuth.Core.xml
+E:\Projects\T4CustomizeTemplate (2)\T4CustomizeTemplate\T4CustomizeTemplate\bin\DotNetOpenAuth.OAuth.Consumer.xml
+E:\Projects\T4CustomizeTemplate (2)\T4CustomizeTemplate\T4CustomizeTemplate\bin\DotNetOpenAuth.OAuth.xml
+E:\Projects\T4CustomizeTemplate (2)\T4CustomizeTemplate\T4CustomizeTemplate\bin\DotNetOpenAuth.OpenId.xml
+E:\Projects\T4CustomizeTemplate (2)\T4CustomizeTemplate\T4CustomizeTemplate\bin\DotNetOpenAuth.OpenId.RelyingParty.xml
+E:\Projects\T4CustomizeTemplate (2)\T4CustomizeTemplate\T4CustomizeTemplate\obj\Debug\T4CustomizeTemplate.csprojResolveAssemblyReference.cache
+E:\Projects\T4CustomizeTemplate (2)\T4CustomizeTemplate\T4CustomizeTemplate\obj\Debug\T4CustomizeTemplate.dll
+E:\Projects\T4CustomizeTemplate (2)\T4CustomizeTemplate\T4CustomizeTemplate\obj\Debug\T4CustomizeTemplate.pdb
+E:\Work\T4CustomizeTemplate\T4CustomizeTemplate\obj\Debug\T4CustomizeTemplate.csprojResolveAssemblyReference.cache
+E:\Work\T4CustomizeTemplate\T4CustomizeTemplate\obj\Debug\T4CustomizeTemplate.dll
+E:\Work\T4CustomizeTemplate\T4CustomizeTemplate\obj\Debug\T4CustomizeTemplate.pdb
+E:\Work\T4CustomizeTemplate\T4CustomizeTemplate\bin\T4CustomizeTemplate.dll
+E:\Work\T4CustomizeTemplate\T4CustomizeTemplate\bin\T4CustomizeTemplate.pdb
+E:\Work\T4CustomizeTemplate\T4CustomizeTemplate\bin\Antlr3.Runtime.dll
+E:\Work\T4CustomizeTemplate\T4CustomizeTemplate\bin\DotNetOpenAuth.AspNet.dll
+E:\Work\T4CustomizeTemplate\T4CustomizeTemplate\bin\DotNetOpenAuth.Core.dll
+E:\Work\T4CustomizeTemplate\T4CustomizeTemplate\bin\DotNetOpenAuth.OAuth.Consumer.dll
+E:\Work\T4CustomizeTemplate\T4CustomizeTemplate\bin\DotNetOpenAuth.OAuth.dll
+E:\Work\T4CustomizeTemplate\T4CustomizeTemplate\bin\DotNetOpenAuth.OpenId.dll
+E:\Work\T4CustomizeTemplate\T4CustomizeTemplate\bin\DotNetOpenAuth.OpenId.RelyingParty.dll
+E:\Work\T4CustomizeTemplate\T4CustomizeTemplate\bin\EntityFramework.dll
+E:\Work\T4CustomizeTemplate\T4CustomizeTemplate\bin\Microsoft.Web.Infrastructure.dll
+E:\Work\T4CustomizeTemplate\T4CustomizeTemplate\bin\Microsoft.Web.WebPages.OAuth.dll
+E:\Work\T4CustomizeTemplate\T4CustomizeTemplate\bin\Newtonsoft.Json.dll
+E:\Work\T4CustomizeTemplate\T4CustomizeTemplate\bin\System.Net.Http.Formatting.dll
+E:\Work\T4CustomizeTemplate\T4CustomizeTemplate\bin\System.Web.Helpers.dll
+E:\Work\T4CustomizeTemplate\T4CustomizeTemplate\bin\System.Web.Http.dll
+E:\Work\T4CustomizeTemplate\T4CustomizeTemplate\bin\System.Web.Http.WebHost.dll
+E:\Work\T4CustomizeTemplate\T4CustomizeTemplate\bin\System.Web.Mvc.dll
+E:\Work\T4CustomizeTemplate\T4CustomizeTemplate\bin\System.Web.Optimization.dll
+E:\Work\T4CustomizeTemplate\T4CustomizeTemplate\bin\System.Web.Razor.dll
+E:\Work\T4CustomizeTemplate\T4CustomizeTemplate\bin\System.Web.WebPages.Deployment.dll
+E:\Work\T4CustomizeTemplate\T4CustomizeTemplate\bin\System.Web.WebPages.dll
+E:\Work\T4CustomizeTemplate\T4CustomizeTemplate\bin\System.Web.WebPages.Razor.dll
+E:\Work\T4CustomizeTemplate\T4CustomizeTemplate\bin\WebGrease.dll
+E:\Work\T4CustomizeTemplate\T4CustomizeTemplate\bin\WebMatrix.Data.dll
+E:\Work\T4CustomizeTemplate\T4CustomizeTemplate\bin\WebMatrix.WebData.dll
+E:\Work\T4CustomizeTemplate\T4CustomizeTemplate\bin\EntityFramework.xml
+E:\Work\T4CustomizeTemplate\T4CustomizeTemplate\bin\Newtonsoft.Json.xml
+E:\Work\T4CustomizeTemplate\T4CustomizeTemplate\bin\System.Net.Http.Formatting.xml
+E:\Work\T4CustomizeTemplate\T4CustomizeTemplate\bin\System.Web.Helpers.xml
+E:\Work\T4CustomizeTemplate\T4CustomizeTemplate\bin\System.Web.Http.xml
+E:\Work\T4CustomizeTemplate\T4CustomizeTemplate\bin\System.Web.Http.WebHost.xml
+E:\Work\T4CustomizeTemplate\T4CustomizeTemplate\bin\System.Web.Mvc.xml
+E:\Work\T4CustomizeTemplate\T4CustomizeTemplate\bin\System.Web.Razor.xml
+E:\Work\T4CustomizeTemplate\T4CustomizeTemplate\bin\System.Web.WebPages.xml
+E:\Work\T4CustomizeTemplate\T4CustomizeTemplate\bin\System.Web.WebPages.Deployment.xml
+E:\Work\T4CustomizeTemplate\T4CustomizeTemplate\bin\System.Web.WebPages.Razor.xml
+E:\Work\T4CustomizeTemplate\T4CustomizeTemplate\bin\WebMatrix.Data.xml
+E:\Work\T4CustomizeTemplate\T4CustomizeTemplate\bin\Microsoft.Web.WebPages.OAuth.xml
+E:\Work\T4CustomizeTemplate\T4CustomizeTemplate\bin\WebMatrix.WebData.xml
+E:\Work\T4CustomizeTemplate\T4CustomizeTemplate\bin\DotNetOpenAuth.AspNet.xml
+E:\Work\T4CustomizeTemplate\T4CustomizeTemplate\bin\DotNetOpenAuth.Core.xml
+E:\Work\T4CustomizeTemplate\T4CustomizeTemplate\bin\DotNetOpenAuth.OAuth.Consumer.xml
+E:\Work\T4CustomizeTemplate\T4CustomizeTemplate\bin\DotNetOpenAuth.OAuth.xml
+E:\Work\T4CustomizeTemplate\T4CustomizeTemplate\bin\DotNetOpenAuth.OpenId.xml
+E:\Work\T4CustomizeTemplate\T4CustomizeTemplate\bin\DotNetOpenAuth.OpenId.RelyingParty.xml
+R:\T4CustomizeTemplate\T4CustomizeTemplate\T4CustomizeTemplate\bin\T4CustomizeTemplate.dll.config
+R:\T4CustomizeTemplate\T4CustomizeTemplate\T4CustomizeTemplate\bin\T4CustomizeTemplate.dll
+R:\T4CustomizeTemplate\T4CustomizeTemplate\T4CustomizeTemplate\bin\T4CustomizeTemplate.pdb
+R:\T4CustomizeTemplate\T4CustomizeTemplate\T4CustomizeTemplate\bin\Antlr3.Runtime.dll
+R:\T4CustomizeTemplate\T4CustomizeTemplate\T4CustomizeTemplate\bin\DotNetOpenAuth.AspNet.dll
+R:\T4CustomizeTemplate\T4CustomizeTemplate\T4CustomizeTemplate\bin\DotNetOpenAuth.Core.dll
+R:\T4CustomizeTemplate\T4CustomizeTemplate\T4CustomizeTemplate\bin\DotNetOpenAuth.OAuth.Consumer.dll
+R:\T4CustomizeTemplate\T4CustomizeTemplate\T4CustomizeTemplate\bin\DotNetOpenAuth.OAuth.dll
+R:\T4CustomizeTemplate\T4CustomizeTemplate\T4CustomizeTemplate\bin\DotNetOpenAuth.OpenId.dll
+R:\T4CustomizeTemplate\T4CustomizeTemplate\T4CustomizeTemplate\bin\DotNetOpenAuth.OpenId.RelyingParty.dll
+R:\T4CustomizeTemplate\T4CustomizeTemplate\T4CustomizeTemplate\bin\EntityFramework.dll
+R:\T4CustomizeTemplate\T4CustomizeTemplate\T4CustomizeTemplate\bin\Microsoft.Web.Infrastructure.dll
+R:\T4CustomizeTemplate\T4CustomizeTemplate\T4CustomizeTemplate\bin\Microsoft.Web.WebPages.OAuth.dll
+R:\T4CustomizeTemplate\T4CustomizeTemplate\T4CustomizeTemplate\bin\Newtonsoft.Json.dll
+R:\T4CustomizeTemplate\T4CustomizeTemplate\T4CustomizeTemplate\bin\System.Web.Helpers.dll
+R:\T4CustomizeTemplate\T4CustomizeTemplate\T4CustomizeTemplate\bin\System.Web.Mvc.dll
+R:\T4CustomizeTemplate\T4CustomizeTemplate\T4CustomizeTemplate\bin\System.Web.Optimization.dll
+R:\T4CustomizeTemplate\T4CustomizeTemplate\T4CustomizeTemplate\bin\System.Web.Razor.dll
+R:\T4CustomizeTemplate\T4CustomizeTemplate\T4CustomizeTemplate\bin\System.Web.WebPages.Deployment.dll
+R:\T4CustomizeTemplate\T4CustomizeTemplate\T4CustomizeTemplate\bin\System.Web.WebPages.dll
+R:\T4CustomizeTemplate\T4CustomizeTemplate\T4CustomizeTemplate\bin\System.Web.WebPages.Razor.dll
+R:\T4CustomizeTemplate\T4CustomizeTemplate\T4CustomizeTemplate\bin\WebGrease.dll
+R:\T4CustomizeTemplate\T4CustomizeTemplate\T4CustomizeTemplate\bin\WebMatrix.Data.dll
+R:\T4CustomizeTemplate\T4CustomizeTemplate\T4CustomizeTemplate\bin\WebMatrix.WebData.dll
+R:\T4CustomizeTemplate\T4CustomizeTemplate\T4CustomizeTemplate\bin\EntityFramework.xml
+R:\T4CustomizeTemplate\T4CustomizeTemplate\T4CustomizeTemplate\bin\Newtonsoft.Json.xml
+R:\T4CustomizeTemplate\T4CustomizeTemplate\T4CustomizeTemplate\bin\System.Web.Helpers.xml
+R:\T4CustomizeTemplate\T4CustomizeTemplate\T4CustomizeTemplate\bin\System.Web.Mvc.xml
+R:\T4CustomizeTemplate\T4CustomizeTemplate\T4CustomizeTemplate\bin\System.Web.Razor.xml
+R:\T4CustomizeTemplate\T4CustomizeTemplate\T4CustomizeTemplate\bin\System.Web.WebPages.xml
+R:\T4CustomizeTemplate\T4CustomizeTemplate\T4CustomizeTemplate\bin\System.Web.WebPages.Deployment.xml
+R:\T4CustomizeTemplate\T4CustomizeTemplate\T4CustomizeTemplate\bin\System.Web.WebPages.Razor.xml
+R:\T4CustomizeTemplate\T4CustomizeTemplate\T4CustomizeTemplate\bin\WebMatrix.Data.xml
+R:\T4CustomizeTemplate\T4CustomizeTemplate\T4CustomizeTemplate\bin\Microsoft.Web.WebPages.OAuth.xml
+R:\T4CustomizeTemplate\T4CustomizeTemplate\T4CustomizeTemplate\bin\WebMatrix.WebData.xml
+R:\T4CustomizeTemplate\T4CustomizeTemplate\T4CustomizeTemplate\bin\DotNetOpenAuth.AspNet.xml
+R:\T4CustomizeTemplate\T4CustomizeTemplate\T4CustomizeTemplate\bin\DotNetOpenAuth.Core.xml
+R:\T4CustomizeTemplate\T4CustomizeTemplate\T4CustomizeTemplate\bin\DotNetOpenAuth.OAuth.Consumer.xml
+R:\T4CustomizeTemplate\T4CustomizeTemplate\T4CustomizeTemplate\bin\DotNetOpenAuth.OAuth.xml
+R:\T4CustomizeTemplate\T4CustomizeTemplate\T4CustomizeTemplate\bin\DotNetOpenAuth.OpenId.xml
+R:\T4CustomizeTemplate\T4CustomizeTemplate\T4CustomizeTemplate\bin\DotNetOpenAuth.OpenId.RelyingParty.xml
+R:\T4CustomizeTemplate\T4CustomizeTemplate\T4CustomizeTemplate\obj\Debug\T4CustomizeTemplate.csprojResolveAssemblyReference.cache
+R:\T4CustomizeTemplate\T4CustomizeTemplate\T4CustomizeTemplate\obj\Debug\T4CustomizeTemplate.dll
+R:\T4CustomizeTemplate\T4CustomizeTemplate\T4CustomizeTemplate\obj\Debug\T4CustomizeTemplate.pdb

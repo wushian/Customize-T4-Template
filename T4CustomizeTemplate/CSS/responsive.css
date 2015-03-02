@@ -1,0 +1,182 @@
+@media (width: 600px)
+{
+    .presentUser {
+        margin: 0 auto;
+        text-align: center;
+        width: 100%;
+    }
+    }
+@media (max-width: 768px)
+{
+     .logo
+   {
+       width: 100%;
+       text-align: center;
+       float: none;
+       display: inline-block;
+       margin:15px 0;
+       }
+    .presentUser {
+    margin: 8px 20px;
+}   
+.formRow input[type="text"], .formRow input[type="password"], textarea
+{
+    width:220px;
+    }
+    }
+@media (max-width: 568px)
+{
+    .wrapper
+    {
+        margin: 0 !important;
+        }
+  
+    .sidebar
+    {
+    display: none;
+	}
+ .contentTop
+ {
+     padding-left: 0 !important;
+     }
+ .pl
+ {
+     padding-left: 0 !important;
+     }	
+     .presentUser
+     {
+      margin: 15px auto !important;
+      float: none;
+      text-align: center;
+      }
+  .tMenu ul > li > a {
+   
+}    
+.resposiveNav
+{
+    display: block;
+    }
+  .topNav
+  {
+      float:none;
+      text-align: center;
+      margin-bottom: 20px;
+      }  
+      ul.userNav
+      {
+      width:70%; 
+      float: none;
+      margin: 0 auto;   
+      }
+  
+ul.userNav li a {
+    display: inline-block;
+    padding: 5px 0;
+    width: 100%;
+}
+ul.userNav li a:hover {
+   background: #ddd;
+   }
+
+  ul.userNav li
+  {
+      padding:5px 0 !important; 
+      }  
+  .breadLine, .pl
+  {
+      padding-left: 0 !important
+      }  
+  
+    ul.userNav li {
+        display: inline-block;
+        padding: 5px 0;
+        width: 100%;
+    }
+  .breadLine
+  {
+    background: rgb(247,247,247); /* Old browsers */
+    background: -moz-linear-gradient(top,  rgba(247,247,247,1) 0%, rgba(223,223,223,1) 100%); /* FF3.6+ */
+    background: -webkit-gradient(linear, left top, left bottom, color-stop(0%,rgba(247,247,247,1)), color-stop(100%,rgba(223,223,223,1))); /* Chrome,Safari4+ */
+    background: -webkit-linear-gradient(top,  rgba(247,247,247,1) 0%,rgba(223,223,223,1) 100%); /* Chrome10+,Safari5.1+ */
+    background: -o-linear-gradient(top,  rgba(247,247,247,1) 0%,rgba(223,223,223,1) 100%); /* Opera 11.10+ */
+    background: -ms-linear-gradient(top,  rgba(247,247,247,1) 0%,rgba(223,223,223,1) 100%); /* IE10+ */
+    background: linear-gradient(to bottom,  rgba(247,247,247,1) 0%,rgba(223,223,223,1) 100%); /* W3C */
+    filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#f7f7f7', endColorstr='#dfdfdf',GradientType=0 ); /* IE6-9 */
+    }
+  ul.breadcrumbs
+  {
+      margin-left: 0};
+ul.breadcrumbs li a
+    {
+    padding: 3px 14px 3px 8px;
+    }
+.breadLinks {
+    display: inline-block;
+}
+ul.breadcrumbs li a
+{
+    padding: 3px 14px 15px 6px;
+    }    
+ .vmenu ul li a
+ {
+     width: 100%;
+     }   	
+.vmenu > li > a
+{
+    padding: 5px 0 !important;
+    }
+ .vmenu > li > a > span
+ {
+    padding-top:0px;  
+     }
+ .footer span
+ {
+  padding: 10px !important;
+     } 
+ .pageTitle
+ {
+     font-size:12px;
+     }
+ .inputField
+{
+    width:100% !important; 
+    }  
+ .searchBox
+{
+width: 100% !important;
+} 
+ .numericTextbox
+ {
+width: 215px !important;
+}
+    .onlyNumeric {
+        width: 215px !important;
+    }
+code
+{
+    display: inline-block;
+	margin: 2px 0;
+    }    
+  .entryForm1 li, .entryForm2 li
+  {
+   padding: 0 5% 20px !important; 
+  }
+
+}
+ 
+@media (max-width: 768px)
+{
+  .tableSearchField
+   {
+     width: 55% !important;
+   }
+  .tScroll
+  {
+    overflow-x:scroll;
+  }  
+ .entryForm1 li
+ {
+     padding: 0 7% 20px;
+     }   
+    	                                    
+    } 
